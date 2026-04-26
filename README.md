@@ -9,8 +9,7 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Embedded BSW** | `C`, `AUTOSAR`, `RTOS (OSEK/VDX)`, `Bare-metal`, `Memory Optimization` |
-| **Cybersecurity** | `HSM`, `Secure Boot`, `Encryption (AES, RSA, ECC)`, `MPU/MMU (Memory Protection)` |
+| **Embedded BSW** | `C`, `AUTOSAR`, `RTOS (OSEK/VDX)`, `C++`, `Memory Optimization` |
 | **Automotive Protocol** | `CAN / CAN-FD`, `Ethernet (DoIP)`, `UDS (ISO 14229)`, `J1939` |
 | **Development Process** | `ASPICE`, `ISO 26262 (Functional Safety)`, `Code Review (Gerrit/GitLab)` |
 | **Verification Tools** | `CANoe`, `Vector CAST`, `TESSY`, `Lauterbach Trace32`, 'INCA'|
