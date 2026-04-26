@@ -46,6 +46,7 @@
 * **Tech:** `C++`, `ROS (Robot Operating System)`, `LiDAR (Laser Sensor)`, `AGV`, `Obstacle Detection`
 * **Key Achievements:**
     * **Real-time Sensor Integration:** LiDAR 레이저 센서의 Raw 데이터를 수집하고 처리하는 ROS 노드 설계 및 C++ 기반 로직 구현
+    * LaserScan 메시지로부터 수신된 Polar Coordinate(거리, 각도) 데이터를 AGV 중심의 **Cartesian Coordinate(x, y)**로 변환하여 기하학적 연산 기반 마련
     * **Dynamic Safety Zone Configuration:** AGV의 주행 속도 및 방향에 따른 가변적 세이프티 존 설정 및 객체 접근 감지 알고리즘 최적화
     * **Collision Avoidance Logic:** 세이프티 존 내 물체 진입 시 즉각적인 인지 및 비상 정지/감속 제어 인터페이스 개발
     * **Performance Tuning:** 센서 데이터 필터링 가공을 통해 인지 노이즈를 최소화하고 실시간 탐지 신뢰성 확보
