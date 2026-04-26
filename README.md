@@ -56,4 +56,3 @@
 
 - 📧 **Email:** SEUNGHO9956@GMAIL.COM
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=dark)
