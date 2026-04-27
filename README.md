@@ -28,7 +28,9 @@
   - API 메모리 배치 관리 (ASIL/QM 영역에 대한 호출 방지 및 구현 방안 설계) 
   - UDS 진단통신 서비스 관리 (진단 서비스별 Callback API를 활용한 응답 검증)
   - 차량 양산 데이터 학습값 관리 (Application Software의 데이터 입력 값 유효성에 따른 진단통신 긍정/부정 통신 응답 검증 및 설계)
-  - 시스템 사양 설계 문서화 (회로 진단, 양산데이터, 통신 인터페이스 I/O, API 표준화) 
+  - 시스템 사양 설계 문서화 (회로 진단, 양산데이터, 통신 인터페이스 I/O, API 표준화)
+  - <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b96c1e1d-a955-4c96-8145-410f4e80be8b" />
+
 
 ####  V2I(Vehicle-to-Infrastructure) Communication & Simulation
 * **Role:** Research Engineer (ICT Information Fusion Center)
