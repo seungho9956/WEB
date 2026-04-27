@@ -29,7 +29,8 @@
   - UDS 진단통신 서비스 관리 (진단 서비스별 Callback API를 활용한 응답 검증)
   - 차량 양산 데이터 학습값 관리 (Application Software의 데이터 입력 값 유효성에 따른 진단통신 긍정/부정 통신 응답 검증 및 설계)
   - 시스템 사양 설계 문서화 (회로 진단, 양산데이터, 통신 인터페이스 I/O, API 표준화)
-  - <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b96c1e1d-a955-4c96-8145-410f4e80be8b" />
+    <img width="1408" height="768" alt="Gemini_Generated_Image_6k0eq06k0eq06k0e" src="https://github.com/user-attachments/assets/3c81635b-b165-4139-a275-06d03f231f5d" />
+
 
 
 ####  V2I(Vehicle-to-Infrastructure) Communication & Simulation
