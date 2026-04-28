@@ -57,7 +57,7 @@
     * **Collision Avoidance Logic:** 세이프티 존 내 물체 진입 시 즉각적인 인지 및 비상 정지/감속 제어 인터페이스 개발
     * **Performance Tuning:** 센서 데이터 필터링 가공을 통해 인지 노이즈를 최소화하고 실시간 탐지 신뢰성 확보
 
-
+images/Baer_AGV-ezgif.com-video-to-gif-converter.gif
 
 ### 📬 Contact & Links
 
