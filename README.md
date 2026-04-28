@@ -42,6 +42,8 @@
     * **Traffic Infrastructure Integration:** 실시간 신호 정보(SPaT: Signal Phase and Timing) 데이터 분석 및 차량 제어 로직 인터페이스 구현
     * **Advanced Simulation:** **Vector CANoe.Car2x**를 활용한 가상 도로 시나리오 기반의 신호 제어 및 V2X 메시지 송수신 검증
     * **Quality & Validation:** 복잡한 교차로 환경에서의 패킷 지연 및 유실 상황을 고려한 통신 신뢰성 테스트 수행
+    * <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fe404428-e272-42f8-a19a-b7ff6d6fd054" />
+
 
 #### 🤖 AGV(Automated Guided Vehicle) Safety System Development
 * **Role:** Embedded SW Developer
