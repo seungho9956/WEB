@@ -60,7 +60,6 @@
  <img width="500" height="281" alt="Baer_AGV-ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/e43955b5-16cb-4225-9208-3faa21b26b9b" />
 
 
-AGV_Baer_Automation/Baer_AGV-ezgif.com-video-to-gif-converter.gif
 
 ### 📬 Contact & Links
 
